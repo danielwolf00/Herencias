@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\RFC\RFC\bin\Debug\RFC.exe.config
+C:\Users\pc\source\repos\RFC\RFC\bin\Debug\RFC.exe
+C:\Users\pc\source\repos\RFC\RFC\bin\Debug\RFC.pdb
+C:\Users\pc\source\repos\RFC\RFC\obj\Debug\RFC.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\RFC\RFC\obj\Debug\RFC.Form1.resources
+C:\Users\pc\source\repos\RFC\RFC\obj\Debug\RFC.Properties.Resources.resources
+C:\Users\pc\source\repos\RFC\RFC\obj\Debug\RFC.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\RFC\RFC\obj\Debug\RFC.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\RFC\RFC\obj\Debug\RFC.exe
+C:\Users\pc\source\repos\RFC\RFC\obj\Debug\RFC.pdb
